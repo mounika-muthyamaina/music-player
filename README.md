@@ -24,7 +24,7 @@ pip install pygame mutagen customtkinter
 ## Usage 🎶
 1. Run the script:
    ```bash
-   python music_player.py
+   python musicplayer.py
    ```
 2. Click **Select Music Folder** and choose a folder containing MP3 files.
 3. Click on a song from the list and press **Play**.
